@@ -188,7 +188,7 @@ img {
   clip-path: polygon(-41% 0, 50% 91%, 141% 0);
 }
 
-.touchLinh {
+.touch {
 color: white;
 font-size: 24px;
 z-index: 999;
