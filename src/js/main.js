@@ -199,10 +199,6 @@ update();
 
 ////////////////////////////
 
-function changePicture(file) {
-
-}
-
 $(function(){
   $('#changepicture').change(function(){
     var input = this;

@@ -194,3 +194,9 @@ font-size: 24px;
 z-index: 999;
 margin-top: 20px;
 }
+
+.btn {
+  background-color: silver;
+  border-radius: 4;
+  padding: 5;
+}
